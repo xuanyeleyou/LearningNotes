@@ -310,7 +310,9 @@ tag可以是一个有意义的名字，它跟某个commit绑定在一起。
 
 提交修改到仓库：   `git commit -m "说明"`
 
-推送到远程仓库：`git push origin origin`或者`git push origin master`
+推送到远程仓库：`git push origin <本地分支名称>`
+
+查看本地分支名称：`git branch`
 
 
 
