@@ -302,6 +302,22 @@ tag可以是一个有意义的名字，它跟某个commit绑定在一起。
 
 
 
+### 建议使用指南
+
+先克隆到本地： `git clone git@github.com:xuanyeleyou/DTA.git`
+
+提交修改到暂存区：  `git add  <文件名>`
+
+提交修改到仓库：   `git commit -m "说明"`
+
+推送到远程仓库：`git push origin origin`或者`git push origin master`
+
+
+
+
+
+
+
 
 
 
